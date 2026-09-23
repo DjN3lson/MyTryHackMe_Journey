@@ -1,0 +1,15 @@
+Day 1:
+Jr Penetration Tester Module
+Began the Jr Penetration Tester learning path, focusing on foundational penetration testing methodologies, reconnaissance, vulnerability identification, and security analysis.
+Explored Shodan (TryScanMe) and VirusTotal (TryDetectMe) to understand how these platforms can be leveraged during penetration testing and security assessments. Practiced using these tools to gather information, identify potentially exposed systems, analyze indicators, and investigate suspicious files or domains.
+Studied the Common Vulnerabilities and Exposures (CVE) framework and learned how CVE identifiers are used to reference and track publicly disclosed security vulnerabilities. Focused on understanding the information contained within a CVE, including the affected software, vulnerability description, severity, and potential exploitation methods.
+Further investigated CVEs through GitHub repositories and publicly available proof-of-concept code, examining how security researchers develop scripts to identify or demonstrate vulnerabilities. This provided additional insight into the relationship between vulnerability disclosures, detection techniques, and practical security testing.
+Skills Developed
+Penetration Testing Fundamentals
+Reconnaissance & Information Gathering
+Vulnerability Identification
+CVE Analysis
+Threat & Malware Analysis
+Security Research
+GitHub Security Research
+Security Tool Usage
